@@ -6,6 +6,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+//Additional comment line - Second commit example
 	return 0;
+
 }
 
